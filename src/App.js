@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <>
-      <div>
+      <div className = "provider">
         <h1>Increment/Decrement Counter</h1>
         <h4>Using react and redux</h4>
         <div>
